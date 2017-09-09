@@ -2,7 +2,7 @@
 
 Have you ever felt like your room was a maze? Well, let's imagine it! Recreate your room in Maya and let's import that into Unity to create a maze game!  
 
-An Example of What Is Possible! 
+(An Example of What Is Possible by smartrifle on Deviantart)  
 ![A Cool Example](https://orig05.deviantart.net/53fd/f/2010/057/c/d/cdc8e1f3aaa95c0d0808fcb81f2db6fc.jpg)
 
 ## Objective
