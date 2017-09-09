@@ -33,6 +33,12 @@ Hotbox | Hold Space | Shortcut menu.
 Panel Layout | Space | Shows all four panels with different views.
 Component Menu | Hold LMB | Shortcut menu with Component Mode Selection options.
 
+## Add Materials
+1. Select a Polygon.
+2. Hold down the Right Mouse Button. Drag downwards until you see the option ```Assign New Material```.
+3. Select ```Lambert```. Lambert material is similar to paint, it has no shiny qualities.
+4. Look in the ```Attribute Editor``` on the far left side and scan for a material called ```lambert2```.
+
 ## Backface Culling
 1. Create a Polygon.
 2. Select Mesh Display Menu -> Reverse.
